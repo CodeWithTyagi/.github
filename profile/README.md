@@ -1,6 +1,6 @@
 <div align="center">
   <a alt="icon" href="https://teamdeadly.me">
-    <img align="center" src="https://telegra.ph/file/79b1b9df1e620cea6814b.jpg" width="96" />
+    <img align="center" src="https://telegra.ph/file/79b1b9df1e620cea6814b.jpg" width="120" />
   </a>
   <h1>𝘾𝙤𝙙𝙚𝙒𝙞𝙩𝙝𝙏𝙮𝙖𝙜𝙞</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
